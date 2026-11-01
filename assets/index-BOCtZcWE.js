@@ -16,7 +16,7 @@ function n() {
         children: e.jsxs("div", {
           className: "max-w-7xl mx-auto px-4 flex items-center justify-between",
           children: [
-            e.jsx("span", { children: "📞 (11) 94078-3341  Seg-Sex 08-18h | Sáb 09-13h" }),
+            e.jsx("span", { children: "📞 (11) 94078-3341 Seg-Sáb 09h-20h" }),
             e.jsx("a", {
               href: "https://wa.me/5511940783341",
               target: "_blank",
